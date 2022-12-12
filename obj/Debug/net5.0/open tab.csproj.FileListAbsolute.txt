@@ -1,0 +1,23 @@
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\open tab.exe
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\open tab.deps.json
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\open tab.runtimeconfig.json
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\open tab.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\open tab.dll
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\ref\open tab.dll
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\open tab.pdb
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\WebDriver.dll
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.csproj.CopyComplete
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.dll
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\ref\open tab.dll
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.pdb
+C:\Users\Administrator\source\repos\open tab\obj\Debug\net5.0\open tab.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\open tab\bin\Debug\net5.0\WebDriver.Support.dll
